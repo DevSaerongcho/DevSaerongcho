@@ -14,7 +14,7 @@
   </em>
   <em>
   <h3>
-    현재 소속 : RiaNetWork Representative
+    현재 소속 : 후니버스
     
   </h3>
     </em>
@@ -24,8 +24,7 @@
 <br />
 
 
-## Production Server
-![Discord Banner 2](https://discordapp.com/api/guilds/986585122549686282/widget.png?style=banner2)
+
 
 
 <h2> My tech stack 📚 </h2>
@@ -71,7 +70,6 @@
 <br>
 
 ```c
-안녕하세요, 리아 네트워크 운영중인, 대표 새롱초 입니다.
-이 GitHub은 직접 만든 시스템 부분들과 홍보 하기 위해 제작됐습니다.
+안녕하세요, 반갑습니다 잘부탁드려요. 초보자 개발자 입니다.
 ```
 <br>
