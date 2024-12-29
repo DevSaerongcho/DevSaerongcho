@@ -8,7 +8,7 @@
     <h3>
     디스코드 :
       <a href="">
-        새롱초#9999 <img src="https://cdn.discordapp.com/attachments/998559272155750482/1000307653647532043/discord-logo-16.png" height="30px" />
+        saerongcho <img src="https://cdn.discordapp.com/attachments/998559272155750482/1000307653647532043/discord-logo-16.png" height="30px" />
       </a>
     </h3>
   </em>
